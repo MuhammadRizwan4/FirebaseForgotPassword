@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081929410538",
+    "firebase_url": "https://fir-forgotpassword-31d9b.firebaseio.com",
+    "project_id": "fir-forgotpassword-31d9b",
+    "storage_bucket": "fir-forgotpassword-31d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081929410538:android:ed4b7a4d143a8b0a",
+        "android_client_info": {
+          "package_name": "com.example.muhammadrizwan.firebaseforgotpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081929410538-ir8m47otqpn5qt4dtnpkevkkiojpek01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-rk8qNo_52lzKPqzZfZu7jZQLvFwxS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081929410538-ir8m47otqpn5qt4dtnpkevkkiojpek01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
